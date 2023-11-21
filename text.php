@@ -4,7 +4,7 @@
 
 <?php
  $name = 'karim';
- $nome= $_POST['marco'];
+ $nome= $_POST['replace'];
 
  $text='Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias eaque unde praesentium enim repellendus quia possimus numquam
  consequuntur officiis quos similique, doloremque sunt aut architecto corporis quibusdam iste quo libero

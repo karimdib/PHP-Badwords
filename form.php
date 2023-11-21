@@ -7,7 +7,7 @@
 </head>
 <body>
     <form action="text.php" method="POST">
-        <input type="text" name= "marco">
+        <input type="text" name= "replace">
         <input type="submit" value="send">
     </form>
 </body>
